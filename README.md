@@ -3,4 +3,4 @@
 
 ## The Task
 **The error in this functionality is** 
-there is error in the game code.
+**there is error in the game code.**
